@@ -1,0 +1,13 @@
+<component info='CentraStage Component'>
+  <general>
+    <name>Carbonite Restart</name>
+    <category>scripts</category>
+    <description>Restarts Carbonite services</description>
+    <uid>d9fb7b5f-3cf8-4e1d-a197-5592af6bcb34</uid>
+    <hash />
+    <version>6</version>
+    <timeout>3600</timeout>
+    <securityLevel>1</securityLevel>
+    <installType>batch</installType>
+  </general>
+</component>
